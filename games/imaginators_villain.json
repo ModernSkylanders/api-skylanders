@@ -1,0 +1,204 @@
+{
+  "game": "Imaginators Villain",
+  "total": 18,
+  "figures": [
+    {
+      "id": 426,
+      "slug": "BadJuju",
+      "name": "Bad Juju",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/BadJuju.png",
+      "is_variant": false
+    },
+    {
+      "id": 427,
+      "slug": "BlasterTron",
+      "name": "Blaster Tron",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/BlasterTron.png",
+      "is_variant": false
+    },
+    {
+      "id": 428,
+      "slug": "ChompyMage",
+      "name": "Chompy Mage",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/ChompyMage.png",
+      "is_variant": false
+    },
+    {
+      "id": 429,
+      "slug": "DarkGoldenQueen",
+      "name": "Dark Golden Queen",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/DarkGoldenQueen.png",
+      "is_variant": true
+    },
+    {
+      "id": 430,
+      "slug": "DarkWolfgang",
+      "name": "Dark Wolfgang",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/DarkWolfgang.png",
+      "is_variant": true
+    },
+    {
+      "id": 431,
+      "slug": "DrKrankCase",
+      "name": "Dr Krank Case",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/DrKrankCase.png",
+      "is_variant": false
+    },
+    {
+      "id": 432,
+      "slug": "GoldenQueen",
+      "name": "Golden Queen",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/GoldenQueen.png",
+      "is_variant": true
+    },
+    {
+      "id": 433,
+      "slug": "GraveClobber",
+      "name": "Grave Clobber",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/GraveClobber.png",
+      "is_variant": false
+    },
+    {
+      "id": 434,
+      "slug": "HoodSickle",
+      "name": "Hood Sickle",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/HoodSickle.png",
+      "is_variant": false
+    },
+    {
+      "id": 435,
+      "slug": "JingleBellChompyMage",
+      "name": "Jingle Bell Chompy Mage",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/JingleBellChompyMage.png",
+      "is_variant": false
+    },
+    {
+      "id": 436,
+      "slug": "Kaos",
+      "name": "Kaos",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/Kaos.png",
+      "is_variant": false
+    },
+    {
+      "id": 437,
+      "slug": "MysticalBadJuju",
+      "name": "Mystical Bad Juju",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/MysticalBadJuju.png",
+      "is_variant": false
+    },
+    {
+      "id": 438,
+      "slug": "MysticalTaeKwonCrow",
+      "name": "Mystical Tae Kwon Crow",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/MysticalTaeKwonCrow.png",
+      "is_variant": false
+    },
+    {
+      "id": 439,
+      "slug": "PainYatta",
+      "name": "Pain Yatta",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/PainYatta.png",
+      "is_variant": false
+    },
+    {
+      "id": 440,
+      "slug": "RockCandyPainyatta",
+      "name": "Rock Candy Painyatta",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/RockCandyPainyatta.png",
+      "is_variant": false
+    },
+    {
+      "id": 441,
+      "slug": "SteelPlatedHoodSickle",
+      "name": "Steel Plated Hood Sickle",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/SteelPlatedHoodSickle.png",
+      "is_variant": false
+    },
+    {
+      "id": 442,
+      "slug": "TaeKwonCrow",
+      "name": "Tae Kwon Crow",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/TaeKwonCrow.png",
+      "is_variant": false
+    },
+    {
+      "id": 443,
+      "slug": "Wolfgang",
+      "name": "Wolfgang",
+      "game": "Imaginators Villain",
+      "year": 2016,
+      "category": "character",
+      "color": "#e67e22",
+      "image_path": "ImaginatorsVillain/Wolfgang.png",
+      "is_variant": false
+    }
+  ]
+}
